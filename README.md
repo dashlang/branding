@@ -11,3 +11,7 @@ Huge thanks to [AdamTm](https://github.com/AdamTmHun) for making like... All of 
 ## Banner
 
 ![Banner](banner.png)
+
+## White text banner
+
+![White text banner](banner-white.png)
